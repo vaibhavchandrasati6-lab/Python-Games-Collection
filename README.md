@@ -113,6 +113,7 @@ This project was created to:
 ## 👨‍💻 Author
 
 Vaibhav Chandra Sati
+
 Beginner Python Developer | Aspiring Data Scientist
 
 ---
